@@ -6,3 +6,6 @@
 3. Detection changes in CDFs (`Experiment_CDF.py`)
 4. Detecting changes in the distribution of paired observations (`Experiment_TwoSample.py`)
 5. Detecting harmful distribution shifts in binary classification(`Experiment_BinaryClassifier.py`) 
+
+
+##TODO: add the details for the real data experiments. 
